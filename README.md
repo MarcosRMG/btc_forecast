@@ -3,7 +3,7 @@
 Bot no Telegram (Alerta de tendência e RSI)
 https://t.me/btc_mkt_radar_pt
 
-Telegram Boot (Trend and RSI Indicator Alert)
+Telegram Bot (Trend and RSI Indicator Alert)
 https://t.me/btc_mkt_radar
 
 Apoiar: 
